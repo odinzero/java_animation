@@ -1,5 +1,5 @@
 
-package github_test;
+package PRANAYAMA;
 
 public class GitHub_test {
 
